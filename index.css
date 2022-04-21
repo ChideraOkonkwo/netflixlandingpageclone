@@ -1,0 +1,112 @@
+body {
+	background-color: black;
+	font-family: sans-serif;
+	background-image: url('background.jpg');
+	background-size:100% 56%;
+	background-repeat: no-repeat;
+}
+
+p{
+	margin: 0;
+}
+
+h1{
+	margin: 0;
+}
+.logo{
+	height: 100px;
+	width: 150px;
+}
+.ash{
+	text-align: center;
+	color: white;
+	font-size: 60px;
+	width: 40%;
+	margin-left: 30%;
+}
+.subtitle-one{
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	margin-top: 20px;
+
+}
+.subtitle-two{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	margin-top: 20px;
+
+}
+.form{
+    text-align: center;
+	margin-top: 20px;
+	margin-bottom: 150px;
+}
+
+.email{
+	width: 400px;
+	padding: 20px;
+	font-size: 15px;
+	border-color: white;
+
+}
+
+.button{
+	height: 60px;
+	width: 200px;
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	border-color: red;
+}
+
+.line{
+	background-color:#f3f3f3;
+	height: 5px;
+}
+
+.section-2{
+	display:flex;
+}
+
+.section-2-Amy{
+	width: 50%;
+	margin-top: 100px;
+}
+
+.section-2-Roy{
+	width: 50%;
+}
+
+.troy{
+	color: white;
+	font-size: 50px;
+	margin-bottom: 20px;
+	margin-left: 60px;
+	font-weight: bold;
+}
+
+.candace{
+	text-align: center;
+	color: white;
+	font-size: 22px;
+	width: 85%;
+	margin-left: 60px;
+}
+
+.section-3{
+	display:flex;
+	
+}
+
+.section-3-child-one{
+	width: 50%;
+	margin-top: 40px;
+	
+}
+
+.section-3-child-two{
+	width: 50%;
+	margin-top: 120px;
+}
